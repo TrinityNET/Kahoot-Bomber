@@ -1,0 +1,10 @@
+D:\Kahoot Bomb\bin\Debug\Kahoot Bomb.exe.config
+D:\Kahoot Bomb\bin\Debug\Kahoot Bomb.exe
+D:\Kahoot Bomb\bin\Debug\Kahoot Bomb.pdb
+D:\Kahoot Bomb\obj\Debug\Kahoot Bomb.csprojAssemblyReference.cache
+D:\Kahoot Bomb\obj\Debug\Kahoot Bomb.csproj.CoreCompileInputs.cache
+D:\Kahoot Bomb\obj\Debug\Kahoot Bomb.exe
+D:\Kahoot Bomb\obj\Debug\Kahoot Bomb.pdb
+D:\Kahoot Bomb\bin\Debug\WebDriver.dll
+D:\Kahoot Bomb\bin\Debug\WebDriver.xml
+D:\Kahoot Bomb\obj\Debug\Kahoot Bomb.csproj.CopyComplete
