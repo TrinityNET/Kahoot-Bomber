@@ -19,7 +19,7 @@ namespace Kahoot_Bomb
         */
 
         static List<string> Proxies = new List<string>();
-        static string[] Usernames = { "Laz", "Lazaros", "Centos", "TrinitySeal", "Bot1337",  new Random().Next().ToString() };
+        static string[] Usernames = { "Laz", "Centos", "TrinitySeal", "Bot1337",  new Random().Next().ToString() };
         static int GamePIN { get; set; } // This will be set at runtime
 
         static void Main(string[] args)
